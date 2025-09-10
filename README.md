@@ -4,7 +4,7 @@ This document outlines the API endpoints for the JWT-based authentication system
 
 ## Base URL
 ```
-http://localhost:3000/api/auth
+http://localhost:5000/api/auth
 ```
 
 ## Headers
